@@ -67,6 +67,8 @@ Ternyata pada ketiga asset ini dapat diakses secara publik oleh siapa saja, yang
 
 ![Alt text](sicepat-medium/9.png)
 
+## Penutup
+
 Cemas? yoi dong!, karena saya merupakan salah satu dari sekian banyak pengguna jasa sicepat, sesegara mungkin saya melakukan pelaporan dari hasil temuan saya pada sicepat
 
 Setalah mencari informasi untuk melakukan pelaporan melalui website sicepat.com, untuk kontak pada bagian IT sangat sulit, jadi saya mencoba menghubungi melalui instagram
@@ -83,7 +85,7 @@ Berdarkan balasan dari CS Sicepat sebagai berikut
 ```bash
 Baik kak, mohon maaf sebelumnya bisa dijelaskan untuk kendala yang dialami terkait pengiriman paketnya kak? Terima kasih
 ```
-
+## Kesimpulan
 Disini saya bisa merasakan bagaimana dramatisnya **Drama Squid Game** yang merupakan film serial Korea Selatan tentang permainan bertahan hidup yang brutal, bisa saya rasakan secara nyata dengan sangat cepat melalui respon **CS sicepat!**
 
 
