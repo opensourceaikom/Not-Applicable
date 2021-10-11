@@ -80,7 +80,7 @@ Saya melakukan pelaporan melalui email yang diberikan
 
 ![Alt text](sicepat-medium/10.png)
 
-Berdarkan balasan dari CS Sicepat sebagai berikut
+Berdarkan balasan dari **CS Sicepat** sebagai berikut
 
 ```bash
 Baik kak, mohon maaf sebelumnya bisa dijelaskan untuk kendala yang dialami terkait pengiriman paketnya kak? Terima kasih
